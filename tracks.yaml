@@ -50,4 +50,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/open-rmf/pybind11_json_vendor
-    version: :{auto}
+    version: 0.2.2
+    version_saved: :{auto}
