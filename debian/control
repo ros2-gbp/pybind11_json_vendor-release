@@ -1,0 +1,12 @@
+Source: ros-iron-pybind11-json-vendor
+Section: misc
+Priority: optional
+Maintainer: YouLiang <youliang@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), git, nlohmann-json3-dev, ros-iron-ament-cmake, ros-iron-pybind11-vendor, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-pybind11-json-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, nlohmann-json3-dev, ros-iron-pybind11-vendor, ros-iron-ros-workspace
+Description: A vendor package for pybind11_json for Modern C++
