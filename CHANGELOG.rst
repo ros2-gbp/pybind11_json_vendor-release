@@ -2,20 +2,21 @@
 Changelog for package pybind11_json_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.3 (2023-06-01)
+0.3.0 (2023-06-06)
 ------------------
+* Switch to rst changelogs
 * Update maintainer
-* Switch CHANGELOG to rst format.
-* Contributors: Yadunund
+* Add initial build workflow (`#9 <https://github.com/open-rmf/pybind11_json_vendor/issues/9>`_)
+* Contributors: Esteban Martinena, Yadunund
 
 0.2.2 (2022-12-07)
 ------------------
 * Support vendor-provided pybind11 upstream (`#8 <https://github.com/open-rmf/pybind11_json_vendor/pull/8>`_)
 * Suppress CMake external project 'update' phase (`#7 <https://github.com/open-rmf/pybind11_json_vendor/pull/7>`_)
-* Contributors: Scott K Logan <logans@cottsay.net>
+* Contributors: Scott K Logan
 
 0.2.0 (2022-10-04)
------------
+------------------
 * Updated nlohmann-json3-dev depend
 * Add missing dependency on nlohmann::json.
 * Add missing buildtool_depend on git
