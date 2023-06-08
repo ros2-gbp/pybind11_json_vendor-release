@@ -1,3 +1,26 @@
+## pybind11_json_vendor (rolling) - 0.4.0-1
+
+The packages in the `pybind11_json_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling pybind11_json_vendor` on `Thu, 08 Jun 2023 05:48:11 -0000`
+
+The `pybind11_json_vendor` package was released.
+
+Version of package(s) in repository `pybind11_json_vendor`:
+
+- upstream repository: https://github.com/open-rmf/pybind11_json_vendor
+- release repository: https://github.com/ros2-gbp/pybind11_json_vendor-release.git
+- rosdistro version: `0.2.2-2`
+- old version: `0.2.2-2`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pybind11_json_vendor (iron) - 0.3.0-1
 
 The packages in the `pybind11_json_vendor` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron pybind11_json_vendor` on `Wed, 07 Jun 2023 03:09:08 -0000`
